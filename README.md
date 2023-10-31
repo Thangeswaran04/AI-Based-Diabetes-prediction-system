@@ -28,7 +28,7 @@ Step 3:
 Step 4:
 * After Step 3 You will Find The Output Like This I Provided Below To Watch......
   
-![application images](https://github.com/Thangeswaran04/AI-Based-Diabetes-prediction-system/assets/139856174/b306276c-36d2-4b2e-9525-aa4091209421)
+![Screenshot 2023-10-31 204803](https://github.com/Thangeswaran04/AI-Based-Diabetes-prediction-system/assets/139856174/7f5d929f-bd2c-4532-92bf-49ea6469d0a0)
 
 Step 5:
 * In Above Output You Have To Enter the Pregnancy For Male=0 and Female=0-100
@@ -36,5 +36,7 @@ Step 5:
 * You Have To Enter BMI As 0-199mg/dl
 * You Have To Enter Age As 0-100 Recommended
 * After Filling the Form Click "Result" To View The Percantage Of Diabetics Of 100% Accuracy Level..
+
+  ![Screenshot 2023-10-31 205016](https://github.com/Thangeswaran04/AI-Based-Diabetes-prediction-system/assets/139856174/8c732d69-3cb9-4818-b63e-cf945a844d79)
 
   Thank You
