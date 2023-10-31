@@ -37,6 +37,6 @@ Step 5:
 * You Have To Enter Age As 0-100 Recommended
 * After Filling the Form Click "Result" To View The Percantage Of Diabetics Of 100% Accuracy Level..
 
-  ![Screenshot 2023-10-31 205016](https://github.com/Thangeswaran04/AI-Based-Diabetes-prediction-system/assets/139856174/8c732d69-3cb9-4818-b63e-cf945a844d79)
+![Screenshot 2023-10-31 205016](https://github.com/Thangeswaran04/AI-Based-Diabetes-prediction-system/assets/139856174/8c732d69-3cb9-4818-b63e-cf945a844d79)
 
   Thank You
